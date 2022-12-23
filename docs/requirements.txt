@@ -2,3 +2,4 @@ furo >= 2021.7.5b38
 myst-parser >= 0.15.1
 setuptools-scm >= 6.0.1
 Sphinx >= 4.1.1
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
